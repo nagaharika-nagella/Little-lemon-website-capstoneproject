@@ -8,4 +8,6 @@ Please note: the only functionality working on this website besides the design i
 # Screenshots
 Here are some screeenshots of the application showcasing the Booking functionality.
 ![image](https://github.com/user-attachments/assets/8d233480-77ef-48b6-bf3c-b207c58551d2)
+![image](https://github.com/user-attachments/assets/fa2c9c83-9281-4a4d-bcfa-8cb4fcf3faf7)
+
 
